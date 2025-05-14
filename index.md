@@ -10,3 +10,8 @@ Podemos colocar trechos de código também:
 ``` javascript
 var myVar = "Hello, world!";
 ```
+E também criar lista de tarefas:
+
+- [ ] Ativar páginas do GitHub
+- [ ] Descrever meu portfólio
+- [ ] Apresentar-me ao mundo
